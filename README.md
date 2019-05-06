@@ -1,2 +1,5 @@
 # nodejs-express-es10
-REST Api with nodeJS + express + ES10 + mongoose + events
+
+REST API with nodeJS + express + ES10 + mongoose + events
+-Scalable and clean API structure
+-Best practices
